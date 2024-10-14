@@ -1,0 +1,11 @@
+dlib
+face_recognition
+imutils
+jupyterlab
+matplotlib
+numpy
+opencv-python
+pandas
+scipy
+scikit-learn
+torch
