@@ -2,7 +2,7 @@
 
 Implementation for the paper submitted to ICASSP 2025   
 **[VisioPhysioENet: A Multimodal System for Detecting Learner Engagement through Visual and rPPG Signals]**  
-[Alakhsimar Singh*](https://github.com/AlakhsimarSingh), [Nischay Verma*](https://github.com/nischayverma0940), [Kanav Goyal*](https://github.com/kanavgoyal898), [Amritpal Singh](), [Puneet Kumar](https://puneetkumar.com), . 
+[Alakhsimar Singh*](https://github.com/AlakhsimarSingh), [Nischay Verma*](https://github.com/nischayverma0940), [Kanav Goyal*](https://github.com/kanavgoyal898), [Amritpal Singh](), [Puneet Kumar](https://puneetkumar.com), Xiaobai Li. 
 
 This repository contains the code and resources for **VisioPhysioENet**, a novel multimodal system for detecting learner engagement using visual and physiological signals. This project combines features extracted from video data, such as facial landmarks and eye metrics, with physiological signals derived from remote photoplethysmography (rPPG) to detect various levels of engagement in learners.
 
