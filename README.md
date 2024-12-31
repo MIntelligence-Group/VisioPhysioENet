@@ -6,8 +6,6 @@ Implementation for the paper submitted to ICASSP 2025
 
 This repository contains the code and resources for **VisioPhysioENet**, a novel multimodal system for detecting learner engagement using visual and physiological signals. This project combines features extracted from video data, such as facial landmarks and eye metrics, with physiological signals derived from remote photoplethysmography (rPPG) to detect various levels of engagement in learners.
 
-**You can read the full preprint of our work on [arXiv](https://arxiv.org/abs/2409.16126).**
-
 <img src="architecture.jpg" width="100%" align="middle">
 
 ## Table of Contents
